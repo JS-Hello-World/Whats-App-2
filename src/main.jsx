@@ -7,6 +7,7 @@ import '@fontsource/roboto/400.css';
 import '@fontsource/roboto/500.css';
 import '@fontsource/roboto/700.css';
 import 'normalize.css';
+import './assets/styles/common.css';
 
 import { ThemeProvider } from './theme';
 
